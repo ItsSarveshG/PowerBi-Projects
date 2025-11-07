@@ -1,3 +1,9 @@
+_**Data Professional Survey Dashboard**_
+
+This Power BI project visualizes insights from a survey conducted among data professionals. The dashboard provides an overview of various aspects of the data industry, including job roles, salaries, preferred tools, and overall satisfaction.
+
+
+
 **Project Overview**
 
 The **Data Professional Survey Dashboard** offers an interactive and visual representation of:
